@@ -52,3 +52,8 @@ button{
 button:hover{
     background-color: red;
 }
+
+table {
+    background-color: white;
+    border: 1px solid yellow;
+}
